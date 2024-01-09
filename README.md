@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=200&section=header&text=SiGwon%20Lee&fontSize=60&fontColor=FFFFFF&&fontAlignY=35&desc=Github%20Profile&descSize=20&descAlign=75&descAlignY=55)
-
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=200&section=header&text=SiGwon%20Lee&fontSize=60&fontColor=FFFFFF&&fontAlignY=35&desc=Github%20Profile&descSize=20&descAlign=75&descAlignY=55)
 
 안녕하세요👋 백엔드 개발을 공부하는 개발자 이시권입니다! </br>
 먼저 생각하고, 질문하고, 움직이겠습니다
@@ -40,12 +40,11 @@
   신한 DS 금융 SW 아카데미 1기 (2023.02 ~ 2023.08) </br>
 
   ### 💻 Tech Blog
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=poem_gun)](https://velog.io/@poem_gun/posts)
-  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=poem\_gun)](https://github.com/eungyeole/velog-readme-stats)
+
   ### 📖 BOJ
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsk2389)](https://solved.ac/lsk2389)
 
-</div>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer)
 
+</div>
