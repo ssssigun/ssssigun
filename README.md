@@ -40,8 +40,8 @@
   신한 DS 금융 SW 아카데미 1기 (2023.02 ~ 2023.08) </br>
 
   ### 💻 Tech Blog
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=poem\_gun)](https://github.com/eungyeole/velog-readme-stats)
-
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=poem\_gun)](https://velog.io/@poem_gun/posts)
+  
   ### 📖 BOJ
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsk2389)](https://solved.ac/lsk2389)
 
