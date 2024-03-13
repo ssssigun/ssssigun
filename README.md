@@ -39,9 +39,9 @@
   인공지능 소재 연구실 학부연구생 (2021.12 ~ 2023.02) </br>
   신한 DS 금융 SW 아카데미 1기 (2023.02 ~ 2023.08) </br>
 
-  ### 💻 Tech Blog
+  <!--### 💻 Tech Blog
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=poemgun)](https://velog.io/@poemgun/posts)
-  
+  -->
   ### 📖 BOJ
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsk2389)](https://solved.ac/lsk2389)
 
