@@ -43,7 +43,7 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=poemgun)](https://velog.io/@poemgun/posts)
   -->
   ### 🚀 Portfolio
-  [![포트폴리오](https://ssssigun.github.io/portfolio-page/img/portfolioMain.png)](https://ssssigun.github.io/portfolio-page/)
+ [<img src="https://ssssigun.github.io/portfolio-page/img/portfolioMain.png" alt="포트폴리오" width="500">](https://ssssigun.github.io/portfolio-page/)
   
   ### 📖 BOJ
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsk2389)](https://solved.ac/lsk2389)
